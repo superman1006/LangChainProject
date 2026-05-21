@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LangChainProject.iml" filepath="$PROJECT_DIR$/.idea/LangChainProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AgentProject.iml" filepath="$PROJECT_DIR$/.idea/AgentProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MeetMind/.idea/MeetMind.iml" filepath="$PROJECT_DIR$/../MeetMind/.idea/MeetMind.iml" />
     </modules>
   </component>
 </project>
