@@ -248,8 +248,8 @@ async def main():
 
     # chat_base()
     # chat_with_tool_loop()
-    # await chat_with_local_and_mcp_tool()
-    await chat_streaming("hello，mimo！请用中文介绍一下你自己。")
+    await chat_with_local_and_mcp_tool()
+    # await chat_streaming("hello，mimo！请用中文介绍一下你自己。")
 
 if __name__ == "__main__":
     asyncio.run(main())
